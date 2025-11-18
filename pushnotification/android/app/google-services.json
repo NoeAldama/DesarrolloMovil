@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "197482749995",
+    "project_id": "test-login-32ada",
+    "storage_bucket": "test-login-32ada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197482749995:android:6bd180859b2204e8154a6e",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMsX6o_nIGY4YjZWegFc0FPfRakKQhA0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197482749995:android:0cf782da303bc9b2154a6e",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMsX6o_nIGY4YjZWegFc0FPfRakKQhA0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
